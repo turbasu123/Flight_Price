@@ -1,5 +1,6 @@
 I deploy my flight price prediction model in heroku env, please find the link below:    
 https://git.heroku.com/flightpriceprd-api.git
+![Screen S](https://user-images.githubusercontent.com/58759652/87641564-e83a9880-c765-11ea-9a1d-e9b9a3f22f33.png)
 ************************************************
 Importing dataset
 Since data is in form of excel file we have to use pandas read_excel to load the data
